@@ -1,2 +1,2 @@
-A simple Erlang/OPT server
+### A simple Erlang/OPT server
 Remote Procedure Call Server
