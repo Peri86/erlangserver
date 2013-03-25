@@ -1,4 +1,3 @@
 A simple Erlang server
 ----------------------
-- Remote Procedure Call
-Base funcional server
+Remote Procedure Call Server
